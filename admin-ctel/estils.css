@@ -1,0 +1,28 @@
+.login { background-color:#fff; color:#000; width:370px; margin:auto; margin-top:50px; border:1px #000 dotted; }
+body { color:#fff; background-image:url('../img/fondo.jpg'); }
+th { background-color:#666; color:#fff; border:1px #666 dotted; }
+tr:hover{ background-color:#dcdcdc; }
+table { border="0"; }
+.margenes { background-color:#fff; color:#000; }
+.clear { clear:both; }
+
+#menu { margin:15px; }
+#menu a{ color:#fff; }
+#menu ul { display:block; list-style:none; list-style-type:none; }
+#menu li { border:1px #fff dotted; margin:10px; padding:10px; background-color:#666; width:173px; display:inline; list-style:none; list-style-type:none; }
+#menu li a{ color:#fff; }
+#menu .botonWeb { color:orange; }
+#menu .botonWeb:hover { background-color:grey; }
+#menu .boton:hover { background-color:grey; }
+#menu .user { color:white; background-color:grey; padding:5px; }
+
+#pie { background-color:#666; }
+#pie a{ text-decoration:none; color:#FFF; }
+#pie a:hover{ text-decoration:underline; }
+.pieLeft { text-align:left; float:left; }
+.pieRight { text-align:right; float:right; }
+
+h1 { text-align:center; background-color:orange; color:white; }
+h2 { }
+#estadistiques { border:1px dotted #666; padding:10px; margin: 20px; width:400px; margin-bottom:30px; }
+.incativo { background-color:#666; }

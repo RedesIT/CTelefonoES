@@ -1,0 +1,106 @@
+p{ color:#000000; line-height:1.2em; }
+a{ color:#ff4901; font-weight:bold; }
+
+img { border: 0 none; }
+img a:hover{ text-decoration:none !important; }
+
+h1{ font-size:1.0em; color:#ff4901; background-color:#fcd996; text-align:center; }
+h2{ font-size:10px; color:#666; text-align:left; margin-left:24px;  }
+h3 { font-size: 16px; }
+h3 a {  font-size:13px; padding:5px; color:#ff4901; text-decoration:none !important; border:1px solid; border-radius:5px; }
+h3 a:hover{ background-color:#fcd996; border:1px solid; border-radius:5px; }
+h4 a {  font-size:13px; padding:5px; color:#ff4901; text-decoration:none !important; border:1px solid; border-radius:5px; }
+h4 a:hover{ background-color:#fcd996; border:1px solid; border-radius:5px; }
+
+.Right{ float:right; }
+.Left{ float:left; }
+.clear{ clear:both; }
+.centrar{text-align:center; }
+
+body { color:#fff; background-image:url('../img/fondo.jpg');  background-color:#666; font-family: arial; }
+
+.margenes{ color:#666; width:970px; margin:auto; text-align:center; background-color:#FFFFFF; border-radius:0px 0px 2em 2em; }
+
+.cabecera {  width:970px; margin:auto; text-align:center; background-color:#FFFFFF; color:#ff4901; border-radius:5em 5em 0px 0px; height:105px; }
+#tituloWeb { font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif; font-size:40px; padding-top:20px; }
+.web { color:#efd46a; font-size:20px; text-align:right; }
+
+.menu{ color:#fcd996; text-align:center; float:left; width:170px; background-color:#FFFFFF; padding:5px; margin-bottom:10px; color:#666; }
+
+.nav{ background-color:#666; border-radius:5px; border-style:dotted; border-width:1px; text-align:center; font-size:12px; width:750px; margin:auto; margin-top:10px; margin-bottom:10px; }
+.nav a{ color:#fff; opacity:0.5; text-decoration:none !important; }
+.nav a:hover { opacity:1; text-decoration:none; }
+.nav ul { list-style-type:circle; }
+.nav li { display:inline; }
+.nav li:before { content: " - "; }
+.nav li:first-child:before { content: none; }
+
+.enlaces{ color:#fff; position:fixed; right:0px; top:0px; width:110px; float:right; border-radius:5px; padding:10px; text-align:right; font-size:12px; }
+.enlaces a{ color:#fff; }
+.enlaces a:hover { opacity:1; text-decoration:none; }
+
+.texto{ margin:auto;background-color:#FFFFFF; width:780px;float:left; font-size:14px; }
+.texto1 { text-align:justify; }
+.textoIzq{ text-align:center;width:615px;float:left;text-align:justify; }
+.textoIzq a:hover{ background-color:#ffe3d8; }
+
+.columnaDer{ text-align:right;width:165px;font-size:12px;float:right;margin:auto; }
+.colIzq{ width:305px; float:left; }
+.colDer{ width:305px; float:right; }
+.titulo{ font-size:16px; margin-top:40px; }
+
+.pie{ font-size:12px; height:150px; width:960px; margin:auto; margin-top:10px; }
+.pie a{ text-decoration:none; color:#fff; }
+.pie a:hover{ text-decoration:underline; }
+.pieLeft{ width:600px; text-align:left; float:left; }
+.pieRight{ width:300px; text-align:right;float:right; }
+
+.linea { background-color:#000; height:4px; }
+
+.explicacion { font-size:12px; }
+.explicacionG { font-weight:bold; font-size:14px; }
+.ofertamovil{ text-align:center; width:600px; border:1px solid; }
+.ofertadelmes{ line-height:30px; }
+
+#barra_cookies{ text-align:center; display:none; position:fixed; right:10px; bottom:10px; width:250px; background:#000; color:#dddddd; z-index: 99999; padding:3px; opacity:0.9; } 
+#barra_cookies a{ font-size:10px; } 
+.barra{ font-family:verdana; font-size:14px; padding:5px; }
+.barra a{ color:#fff; }
+.informacion{ padding:5px; text-decoration:none; color:#ffffff; }
+#aceptar{ background:#4682B4; text-decoration:none; color:#fff; padding:3px; }
+#aceptar:hover{ background:green; }
+
+.data{ text-align:right; color:#666; }
+.titol a{ font-size:1.1em; }
+.text{ width:550px; }
+.text a{ color:#666; }
+.noticias{ font-size:1.2em; color:#666; margin-top:30px; }
+
+.post{ background-color:#fbfbfb; text-align:justify;font-size:12px; margin:10px; padding:10px; border-top-left-radius:2em; box-shadow: 0px 1px 0px 1px #666; }
+.post:hover{ background-color:#f2f1f1; border-top-left-radius:2em; }
+.post a { text-decoration:none !important; }
+.post a :hover { text-decoration:underline; }
+
+.tablaPaginas td{ padding:20px; width:150px; }
+
+.companias { color:#666; }
+.companias tr:hover{ background-color:#f2f1f1; }
+.companias td{ padding:20px; }
+.titolTabla { color:#000; }
+.telefono { color:blue; }
+
+.condiciones { text-align:justify; font-family: arial; font-size:10px; padding:10px; }
+.redes-sociales { text-align:center; margin:auto; }
+.tablaPaginas a:hover{ background-color:#ffe3d8; }
+
+.leads { font-size:12px; color:#666; margin:2px; padding:5px; text-align:left; width:155px; border:1px solid #d7d7d7; }
+.boletin { font-weight:bold; }
+.moviles{ font-size:10px; margin-top:20px; }
+
+.cookies-info{ text-align:justify; font-size:14px; margin:5px; }
+.cookies-info p { line-height:25px; }
+.cookies-enlaces{ text-align:left; }
+.cookies-enlaces a{ opacity:0.8; }
+.cookies-titulo{ font-size:16px; font-weight:bold; margin-top:30px; }
+.cookies-titulo2{ font-size:14px; margin-top:15px; margin-left:10px; }
+.cookies-firma{ text-align:right; }

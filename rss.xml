@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="0.91">
+
+<channel>
+<title>La compañia de telefono mas barata</title> 
+<link>http://www.xn--compaiadetelefono-jxb.es</link> 
+<description>Comparativa de internet, las mejores ofertas de moviles, linea fijo</description> 
+<language>es-ES</language>
+
+<image>
+<title>La compañia de telefono mas barata</title> 
+<url>http://www.xn--compaiadetelefono-jxb.es/img/feed.jpg</url> 
+<link>http://www.xn--compaiadetelefono-jxb.es</link> 
+<width>100</width> 
+<height>12</height> 
+</image>
+
+<item>
+<title>Compañia de telefono</title> 
+<link>http://www.xn--compaiadetelefono-jxb.es/internettarifas.html</link> 
+<description>
+Atencion con las nuevas ofertas de compañia de telefono, consulta y compara las compañias mas baratas, elige la que mas te interese.
+</description> 
+</item>
+
+
+</channel>
+</rss>

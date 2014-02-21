@@ -1,0 +1,14 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} ^xn--compaiadetelefono-jxb.es [nc]
+rewriterule ^(.*)$ http://www.xn--compaiadetelefono-jxb.es/$1 [r=301,nc]
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /blog/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /blog/index.php [L]
+</IfModule>
